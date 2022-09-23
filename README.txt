@@ -1,0 +1,1 @@
+In Heroku 2022, they have changed something. They are not using the python 3.7 mentioned in runtime.txt. Before deployment in Heroku, please remove this file from git.
